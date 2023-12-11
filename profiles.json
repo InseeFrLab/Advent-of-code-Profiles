@@ -188,6 +188,19 @@
       "language": {          
         "2022": "Dart"
       }
+    },
+    "3354585": {
+      "just_to_know_id_meaning": "Jean Dupin",
+      "link": {
+        "2015": "https://github.com/JeanDupin/AOC#readme",
+        "2016": "https://github.com/JeanDupin/AOC#readme",
+        "2023": "https://github.com/JeanDupin/AOC#readme"
+      },
+      "language": {          
+        "2015": "R",
+        "2016": "R",
+        "2023": "R"
+      }
     }
   }
 }
